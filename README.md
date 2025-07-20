@@ -73,7 +73,7 @@
 <body>
 
   <header>
-    <img src="https://via.placeholder.com/150x60.png?text=Cafe+Logo" alt="Cafe Logo">
+    <img src="20250720_221620_0000.png" alt="Cafe Logo">
     <h1>Cafedanna</h1>
     <p>Where Sweet Moments Brew</p>
   </header>
@@ -94,22 +94,22 @@
     <h2>Our Menu</h2>
     <div class="menu">
       <div class="item">
-        <img src="https://via.placeholder.com/250x180.png?text=Macaron" alt="Macaron">
+        <img src="IMG_20250720_230837_196.jpg" alt="Macaron">
         <h3>Macaron</h3>
         <p>₱85 - Colorful, delicate, and perfectly sweet.</p>
       </div>
       <div class="item">
-        <img src="https://via.placeholder.com/250x180.png?text=Croissant" alt="Croissant">
+        <img src="IMG_20250720_230838_794.jpg" alt="Croissant">
         <h3>Croissant</h3>
         <p>₱120 - Flaky, buttery, and freshly baked every morning.</p>
       </div>
       <div class="item">
-        <img src="https://via.placeholder.com/250x180.png?text=Iced+Americano" alt="Iced Americano">
+        <img src="IMG_20250720_230840_954.jpg" alt="Iced Americano">
         <h3>Iced Americano</h3>
         <p>₱100 - Refreshing and bold with a smooth espresso base.</p>
       </div>
       <div class="item">
-        <img src="https://via.placeholder.com/250x180.png?text=Cappuccino" alt="Cappuccino">
+        <img src="IMG_20250720_230843_019.jpg" alt="Cappuccino">
         <h3>Cappuccino</h3>
         <p>₱110 - A perfect balance of espresso, milk, and foam.</p>
       </div>
