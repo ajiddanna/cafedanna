@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Cafedanna</title>
+  <title>Dan's Cafe</title>
   <style>
     body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -74,7 +74,7 @@
 
   <header>
     <img src="20250720_221620_0000.png" alt="Cafe Logo">
-    <h1>Cafedanna</h1>
+    <h1>Dan's Cafe</h1>
     <p>Where Sweet Moments Brew</p>
   </header>
 
@@ -86,7 +86,7 @@
   </nav>
 
   <section id="home">
-    <h2>Welcome to Cafedanna</h2>
+    <h2>Welcome to Dan's Cafe</h2>
     <p>Enjoy handcrafted pastries and aromatic coffee in a cozy minimalist space made just for you.</p>
   </section>
 
@@ -118,16 +118,16 @@
 
   <section id="about">
     <h2>About Us</h2>
-    <p>Founded in 2025, Cafedanna is a warm, minimalist space designed for those who love quiet corners, pastries, and exceptional coffee.</p>
+    <p>Founded in 2025, Dan's Cafe is a warm, minimalist space designed for those who love quiet corners, pastries, and exceptional coffee.</p>
   </section>
 
   <section id="contact">
     <h2>Contact</h2>
-    <p>Email: hello@cafedanna.com<br>Instagram: @cafedanna.ph<br>Visit us in Manila!</p>
+    <p>Email: hello@dan'scafe.com<br>Instagram: @dan'scafe.ph<br>Visit us in Manila!</p>
   </section>
 
   <footer>
-    &copy; 2025 Cafedanna. All rights reserved.
+    &copy; 2025 Dan's Cafe. All rights reserved.
   </footer>
 
 </body>
